@@ -1,0 +1,14 @@
+
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    alias(libs.plugins.android.application) apply false
+    id 'com.google.gms.google-services' version '4.3.2' apply false
+}
+
+allprojects {
+    tasks.withType(JavaCompile).configureEach {
+        javaCompiler = javaToolchains.compilerFor {
+            languageVersion = JavaLanguageVersion.of(21) // Change to 17 if needed
+        }
+    }
+}

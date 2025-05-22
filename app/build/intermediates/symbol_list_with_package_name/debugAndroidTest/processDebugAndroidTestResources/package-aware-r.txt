@@ -1,0 +1,3 @@
+com.socio.sociosphere.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!-- Main content area (RecyclerView or Fragment) -->
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- ReadableBottomBar placed at the bottom -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/toolbar_bg"
+        android:minHeight="?attr/actionBarSize"
+
+        app:popupTheme="@style/Theme.AppCompat.Light"
+        android:theme="@style/ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+
+<!--    <com.iammert.library.readablebottombar.ReadableBottomBar-->
+<!--        android:id="@+id/readableBottomBar"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="56dp"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:rbb_tabs="@xml/tabs"-->
+<!--        app:rbb_activeItemType="text"-->
+<!--        app:rbb_textColor="#FFA500"-->
+<!--        app:rbb_backgroundColor="#7FFFD4"-->
+<!--        app:rbb_indicatorColor="#FFA500"/>-->
+
+
+
+    <!-- Reference to your tabs.xml -->
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bottomNavigationView"
+        android:layout_alignParentBottom="true"
+        android:background="?android:attr/windowBackground"
+        android:backgroundTint="@color/white"
+        app:itemTextColor="@color/menu_item_color"
+        app:itemIconTint="@color/menu_item_color"
+        app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/home_menunew"
+        app:labelVisibilityMode="selected"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

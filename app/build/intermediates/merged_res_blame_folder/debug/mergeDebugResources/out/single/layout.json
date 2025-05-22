@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\fragment_request.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\activity_chat2.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_chat2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\activity_messagelistactivity.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_messagelistactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\user_row.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\user_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\notification2sample.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\notification2sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\activity_comment.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\activity_message.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\activity_test.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\activity_ai.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_ai.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\msg_item_left.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\msg_item_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\friends_rv_sample.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\friends_rv_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\user_sample.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\user_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\dashboard_rv_sample.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\dashboard_rv_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\demo_post.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\demo_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\friends_single_layout.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\friends_single_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\fragment_add_post.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_add_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\msg_item_right.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\msg_item_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\fragment_add_post2test.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_add_post2test.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\fragment_chats.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\comment_sample.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\comment_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\fragment_friends.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\content_test.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\content_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\story_rv_design.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\story_rv_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\fragment_notifications2.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_notifications2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-mergeDebugResources-66:\\layout\\activity_calling_scr.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_calling_scr.xml"
+    },
+    {
+        "merged": "com.socio.sociosphere.app-mergeDebugResources-66:/layout/activity_message.xml",
+        "source": "com.socio.sociosphere.app-main-69:/layout/activity_message.xml"
+    }
+]

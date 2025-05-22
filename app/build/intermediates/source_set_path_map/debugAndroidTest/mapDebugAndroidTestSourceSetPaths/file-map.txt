@@ -1,0 +1,5 @@
+com.socio.sociosphere.test.app-jetified-core-1.6.1-0 C:\Users\HP\.gradle\caches\8.9\transforms\6a05cfa03136ddb7e58af82d2332662a\transformed\jetified-core-1.6.1\res
+com.socio.sociosphere.test.app-androidTest-1 E:\shivam app copy\SocioSphere\app\build\generated\res\resValues\androidTest\debug
+com.socio.sociosphere.test.app-mergeDebugAndroidTestResources-2 E:\shivam app copy\SocioSphere\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.socio.sociosphere.test.app-mergeDebugAndroidTestResources-3 E:\shivam app copy\SocioSphere\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.socio.sociosphere.test.app-debugAndroidTest-4 E:\shivam app copy\SocioSphere\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

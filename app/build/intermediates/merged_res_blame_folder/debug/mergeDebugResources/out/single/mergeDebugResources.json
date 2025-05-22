@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_search.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_fragment_add_post2test.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_add_post2test.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_like2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_like2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_notifications.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\font_acme.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\font\\acme.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_friends_single_layout.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\friends_single_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable-xxhdpi_ic_back_arrow.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable-xxhdpi\\ic_back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_content_test.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\content_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_setting2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\setting2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_user_sample.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\user_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_white_circle.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\white_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_usernew.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\usernew.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_activity_ai.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_ai.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_login.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_post1.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\post1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_heart.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_video_camera.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_video_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_person3.avif.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\person3.avif"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_person4.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\person4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_fragment_add_post.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_add_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_home.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_orange_circle.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\orange_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_fragment_friends.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_fragment_notifications2.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_notifications2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_searchnew.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\searchnew.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_follow_btn_bg.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\follow_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_activity_test.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_profile_cesar.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\profile_cesar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_like.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_story_img2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\story_img2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_add_user_2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\add_user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_add_story2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\add_story2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_call.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_like4.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_like4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_add_story.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\add_story.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_more.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\font_roboto_medium.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\font\\roboto_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_profile.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_heartnew.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\heartnew.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_msg_item_right.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\msg_item_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_share.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_story2_immg2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\story2_immg2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_fragment_request.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_comment_sample.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\comment_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_ai.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_ai.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_homenew.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\homenew.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_live2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_live2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_check.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_logout.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_activity_chat2.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_chat2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_input_text_bg.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\input_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_comment.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_send.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_story_rv_design.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\story_rv_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_fragment_chats.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\menu_home_menu.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\menu\\home_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_notification2sample.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\notification2sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_settings.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\menu_home_menunew.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\menu\\home_menunew.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_user_row.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\user_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_right_round_bg.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\right_round_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable-hdpi_ic_back_arrow.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable-hdpi\\ic_back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_msg_item_left.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\msg_item_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_activity_message.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_profile2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\profile2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_save.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable-xxhdpi_btn_shape_2.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable-xxhdpi\\btn_shape_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_story3_img3.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\story3_img3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_add_post.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_add_post.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable-anydpi_ic_back_arrow.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable-anydpi\\ic_back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable-xxhdpi_back_left.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable-xxhdpi\\back_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_person2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\person2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_activity_calling_scr.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_calling_scr.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_person1.avif.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\person1.avif"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable-xxhdpi_back_right.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable-xxhdpi\\back_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_placeholder.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_friends_rv_sample.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\friends_rv_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable-mdpi_ic_back_arrow.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable-mdpi\\ic_back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable-v24_instagram_logo.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable-v24\\instagram_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_upload_image.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_upload_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_add_friend.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_add_friend.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_message.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_message.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_plusnew.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\plusnew.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_demo_post.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\demo_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_profile3.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\profile3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_follow_active_btn.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\follow_active_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable-mdpi_btnred.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable-mdpi\\btnred.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_dashboard_rv_sample.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\dashboard_rv_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable-xhdpi_ic_back_arrow.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable-xhdpi\\ic_back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_activity_messagelistactivity.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_messagelistactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_defualt_insta_pic.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\defualt_insta_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_activity_comment.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\xml_tabs.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\xml\\tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_like3.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_like3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_live.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_live.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_toolbar_bg.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\toolbar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\menu_menu_item.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\menu\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_img.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\img.png"
+    },
+    {
+        "merged": "com.socio.sociosphere.app-debug-67:/layout_activity_message.xml.flat",
+        "source": "com.socio.sociosphere.app-main-69:/layout/activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_story_img1.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\story_img1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_ic_image.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\ic_image.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_sendnew.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\sendnew.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-debug-67:\\drawable_post2.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.socio.sociosphere.app-main-69:\\drawable\\post2.jpg"
+    }
+]

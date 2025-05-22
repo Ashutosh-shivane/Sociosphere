@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">12412160817</string>
+    <string name="google_api_key" translatable="false">AIzaSyA0BViPM4YvAP0Uc4LAsZOGlNh6DvQw2Xk</string>
+    <string name="google_app_id" translatable="false">1:12412160817:android:27826ee2cf77d92cc0fe10</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA0BViPM4YvAP0Uc4LAsZOGlNh6DvQw2Xk</string>
+    <string name="google_storage_bucket" translatable="false">socio-sphere-48ce6.appspot.com</string>
+    <string name="project_id" translatable="false">socio-sphere-48ce6</string>
+</resources>

@@ -1,0 +1,103 @@
+
+plugins {
+    alias(libs.plugins.android.application)
+    id 'com.google.gms.google-services' version '4.3.2' apply false
+}
+
+android {
+    namespace 'com.socio.sociosphere'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.socio.sociosphere"
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    // Java 11 compatibility (update this if you are using Java 17)
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_21
+        targetCompatibility JavaVersion.VERSION_21
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+dependencies {
+    implementation libs.appcompat
+    implementation libs.material
+    implementation libs.activity
+    implementation libs.constraintlayout
+    implementation libs.navigation.fragment
+    implementation libs.navigation.ui
+    testImplementation libs.junit
+    androidTestImplementation libs.ext.junit
+    androidTestImplementation libs.espresso.core
+
+    // Add ReadableBottomBar dependency
+    implementation 'com.github.iammert:ReadableBottomBar:0.2'
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'com.github.MrNouri:DynamicSizes:1.0'
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+
+
+
+    implementation 'com.github.florent37:DiagonalLayout:v1.0.7'
+    implementation(platform("com.google.firebase:firebase-bom:33.4.0"))
+    implementation("com.google.firebase:firebase-auth")
+
+    implementation("com.google.mlkit:image-labeling:17.0.3")
+
+    implementation("com.google.firebase:firebase-database")
+    //classpath 'com.google.gms:google-services:4.3.2'
+
+    implementation 'com.google.firebase:firebase-core:9.6.1'
+
+    implementation("com.google.firebase:firebase-storage")
+
+    implementation 'com.squareup.picasso:picasso:2.8'
+
+    implementation 'androidx.viewpager2:viewpager2:1.0.0'
+
+    implementation 'com.github.marlonlom:timeago:4.0.3'
+
+
+    implementation 'com.github.3llomi:CircularStatusView:V1.0.3'
+
+    implementation 'com.github.OMARIHAMZA:StoryView:1.0.2-alpha'
+
+    implementation 'com.github.sharish:ShimmerRecyclerView:v1.3'
+
+    implementation("com.google.ai.client.generativeai:generativeai:0.7.0")
+
+    // Required for one-shot operations (to use `ListenableFuture` from Guava Android)
+    implementation("com.google.guava:guava:31.0.1-android")
+
+    // Required for streaming operations (to use `Publisher` from Reactive Streams)
+    implementation("org.reactivestreams:reactive-streams:1.0.4")
+
+
+    implementation 'com.github.bumptech.glide:glide:4.15.1'  // Latest stable version
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.15.1'
+
+
+    implementation("io.agora.rtc:full-sdk:+")
+    implementation("commons-codec:commons-codec:1.17.1")
+
+
+
+}
+apply plugin: 'com.google.gms.google-services'
